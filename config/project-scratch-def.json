@@ -1,5 +1,5 @@
 {
-  "orgName": "Demo company",
+  "orgName": "LWC",
   "edition": "Developer",
   "features": [],
   "settings": {
@@ -12,6 +12,7 @@
       }
     },
     "mobileSettings": {
+   
       "enableS1EncryptedStoragePref2": false
     }
   }
